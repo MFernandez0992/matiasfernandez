@@ -19,6 +19,11 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 - API: WeatherAPI
 - Enlaces: [Repositorio GitHub](https://github.com/MFernandez0992/weather-app) | [DEMO](https://weather-app-blush-seven.vercel.app/)
 
+### Easybank Landing Page
+- Descripción: Desarrollé una landing page para un banco ficticio, utilizando React y Tailwind CSS para crear una interfaz moderna y completamente responsive. Implementé el principio de componetización de React, permitiendo un manejo eficiente de estados y una fácil escalabilidad del proyecto.
+- Tecnologías Utilizadas: React + Tailwindcss + HTML
+- Enlaces: [Repositorio GitHub](https://github.com/MFernandez0992/easybank-LP) | [DEMO](https://easybank-mfernandez.netlify.app)
+
 ### Billing Page
 - Descripción: He codificado este panel que emula el dashboard de un ecommerce desde un diseño de Figma.
 - Tecnologías Utilizadas: HTML + Tailwindcss
